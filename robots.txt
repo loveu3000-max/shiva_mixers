@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shivaconcretemixers.in/sitemap.xml
+
+# Disallow any admin or private paths if they exist
+# Disallow: /admin/
+# Disallow: /private/
